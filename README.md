@@ -16,7 +16,7 @@ set duration to 15min:
 ![-w1433](media/15841605511514.jpg)
 
 ## defer.scpt (depend on OmniFocusStrLib.scpt)
-- please copy OmniFocusStrLib.scpt in '~/Library/Script Libraries/' directory
+- please copy OmniFocusStrLib.scpt to '~/Library/Script Libraries/' directory
 
 defre 1 day for selected tasks:
 ![-w1424](media/15841612467751.jpg)
