@@ -1,6 +1,6 @@
 # omnifocus3-applescript
 - some applescripts for omnifocus 3
-- some content comes from Internet, pls test before use
+- some content comes from Internet, pls test it before use
 
 ## chooseFromTagList.scpt
 choose one from several tags, and set for selected tasks:
